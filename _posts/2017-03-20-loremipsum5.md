@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorem Ipsum
+title: Lorem Ipsum 5
 permalink: /posts/loremipsum5.html
 comments: 0
 ---
