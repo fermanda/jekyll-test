@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Blog | Daily Life of Lazy Programmer</title>
+ <title>Jekyll-Test</title>
  <link href="http://www.mandaak.com/atom.xml" rel="self"/>
  <id>http://www.mandaak.com</id>
- <updated>2017-03-20T12:32:02+07:00</updated>
+ <updated>2017-03-20T12:46:43+07:00</updated>
  <author>
    <name>Hanif Fermanda Putra</name>
    <uri>http://www.mandaak.com</uri>
@@ -15,7 +15,7 @@
 
  <entry>
    <title>Lorem Ipsum</title>
-   <link href="http://www.mandaak.com/posts/loremipsum1.html"/>
+   <link href="http://www.mandaak.com/posts/loremipsum5.html"/>
    <id>http://www.mandaak.com/posts/loremipsum5</id>
    <updated>2017-03-20T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
@@ -25,7 +25,7 @@
 
  <entry>
    <title>Lorem Ipsum</title>
-   <link href="http://www.mandaak.com/posts/loremipsum1.html"/>
+   <link href="http://www.mandaak.com/posts/loremipsum4.html"/>
    <id>http://www.mandaak.com/posts/loremipsum4</id>
    <updated>2017-03-20T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
@@ -35,7 +35,7 @@
 
  <entry>
    <title>Lorem Ipsum</title>
-   <link href="http://www.mandaak.com/posts/loremipsum1.html"/>
+   <link href="http://www.mandaak.com/posts/loremipsum3.html"/>
    <id>http://www.mandaak.com/posts/loremipsum3</id>
    <updated>2017-03-20T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
@@ -45,7 +45,7 @@
 
  <entry>
    <title>Lorem Ipsum</title>
-   <link href="http://www.mandaak.com/posts/loremipsum1.html"/>
+   <link href="http://www.mandaak.com/posts/loremipsum2.html"/>
    <id>http://www.mandaak.com/posts/loremipsum2</id>
    <updated>2017-03-20T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
