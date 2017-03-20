@@ -1,0 +1,39 @@
+# Site settings
+title: Jekyll-Test
+description: "This is only test"
+url: "http://www.mandaak.com"
+author:
+  name: "Hanif Fermanda Putra"
+  url: "http://www.mandaak.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./blog
+permalink: /:title
+paginate: 4
+paginate_path: /page:num/
+include: [".htaccess"]
+exclude: ["blog.zip"]
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: true
+custom_nav_footer: true
+reverse: false
